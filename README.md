@@ -18,11 +18,11 @@ python3 main.py
 
 ## Competition
 
-- Bounty: https://make.fun/bounty/u-0xb3e689-one-star-review-of-something-essential-c7234629
+- Bounty: [Bounty](https://make.fun/bounty/u-0xb3e689-one-star-review-of-something-essential-c7234629)
 
 ![Bounty](https://make.fun/badge/u-0xb3e689-one-star-review-of-something-essential-c7234629.svg)
-![Rank](https://make.fun/u-0xb3e689-one-star-review-of-something-essential-c7234629/xiangbingxi/makefun-one-star-review-essential/rank.svg)
-![Reward](https://make.fun/u-0xb3e689-one-star-review-of-something-essential-c7234629/xiangbingxi/makefun-one-star-review-essential/reward.svg)
+![Rank](https://make.fun/badge/u-0xb3e689-one-star-review-of-something-essential-c7234629/xiangbingxi/makefun-one-star-review-essential/rank.svg)
+![Reward](https://make.fun/badge/u-0xb3e689-one-star-review-of-something-essential-c7234629/xiangbingxi/makefun-one-star-review-essential/reward.svg)
 
 ## License
 
